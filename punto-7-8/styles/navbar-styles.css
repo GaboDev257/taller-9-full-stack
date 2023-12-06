@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+#navbar {
+    margin: auto;
+    background-color: rgba(187, 140, 187, 0.623);
+    font-size: 25px;
+}
+
+ul {
+    display: flex;
+    padding: 50px;
+    list-style: none;
+    gap: 60px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: blue;
+}

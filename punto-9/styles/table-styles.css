@@ -1,0 +1,19 @@
+#table-menu {
+    background-color: yellow;
+    width: 50%;
+    font-family: 'Gill Sans';
+    margin: 50px auto;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th {
+    color: red;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}

@@ -1,0 +1,19 @@
+#links {
+    margin: auto;
+    padding: 100px;
+    font-family: 'Georgia';
+    text-align: left;
+    width: 50%;
+}
+
+.link-1 a {
+    color: yellow;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+.link-2 a {
+    color: rgb(139, 10, 139);
+    text-decoration: underline;
+    font-size: 40px;
+}
